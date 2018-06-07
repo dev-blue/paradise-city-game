@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0599b3f5-7e8a-4e5e-87af-1c04a862ba9b",
+            "Value": {
+                "id": "ff90e05d-1994-4e30-a243-bf8f1ba80d6c",
+                "resourcePath": "rooms\\casaCientista2\\casaCientista2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "16569807-5c0c-4217-8f7b-96feabea6515",
+            "Value": {
+                "id": "63a7ffe8-4659-4581-983e-5b97941cfea8",
+                "resourcePath": "rooms\\futuro\\futuro.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "27f7984d-ee6f-4bfd-b4b2-60745a9b25d3",
             "Value": {
                 "id": "5e0ec46b-9cbc-4c94-8de4-b9e7031ebcf2",
@@ -55,6 +71,14 @@
             }
         },
         {
+            "Key": "4767006f-8438-4a9f-a495-0ba18fc80bc3",
+            "Value": {
+                "id": "312f8de6-2730-4f83-b65a-c9929aefbf78",
+                "resourcePath": "objects\\btnStart\\btnStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "52361f5d-65fa-4fd0-bfaf-4af1b6deb071",
             "Value": {
                 "id": "ef82570a-9378-4bb2-ab73-dc39cce657a7",
@@ -66,7 +90,7 @@
             "Key": "5d1e588e-6124-4a65-bf86-bec0071fdf44",
             "Value": {
                 "id": "e077a6fc-5993-47f9-9626-e31abcc7d5fc",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\menu\\menu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -76,6 +100,22 @@
                 "id": "bceee3eb-20b3-40f6-a893-1e7596c650ee",
                 "resourcePath": "views\\5d69fe72-d35b-498c-ab5f-c948a0a57628.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70e28950-6192-49bf-a3d1-812fd731e241",
+            "Value": {
+                "id": "e689c6c8-2247-463d-9466-6b56dce4e784",
+                "resourcePath": "rooms\\escritorio\\escritorio.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "72423816-c7b4-4342-961d-3641cf2bfa9c",
+            "Value": {
+                "id": "f36b0e04-cba9-44b0-bbc9-81859be26262",
+                "resourcePath": "rooms\\casaCliente2\\casaCliente2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -111,6 +151,46 @@
             }
         },
         {
+            "Key": "8ad084da-4288-46d3-897c-cb76de9b880b",
+            "Value": {
+                "id": "d4c7a7c8-d1bc-490d-990e-c29cb382edab",
+                "resourcePath": "views\\8ad084da-4288-46d3-897c-cb76de9b880b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "910b2163-38f9-419c-9aaf-f7e4fd840993",
+            "Value": {
+                "id": "809281b4-3fa4-473c-90d4-2e16131bd55a",
+                "resourcePath": "rooms\\passado\\passado.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "99c1252e-f757-46e9-87a7-be491ae55051",
+            "Value": {
+                "id": "ea8110ee-3f68-48f9-a920-d71b8bd4bbf0",
+                "resourcePath": "rooms\\novaDimensao\\novaDimensao.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9ae4d32d-4e6b-4c55-a481-33e8a73c2f47",
+            "Value": {
+                "id": "39139aac-fd7e-4ea0-90a3-7194b4c43dca",
+                "resourcePath": "sprites\\sprButton\\sprButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1264442-d5ed-41d2-b9ec-a1712923be22",
+            "Value": {
+                "id": "e6ff5b13-a42a-489e-bd5f-1c7c51321bd4",
+                "resourcePath": "rooms\\bosque\\bosque.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a3b09083-4746-45fe-8a45-e6c4ae6e9ac9",
             "Value": {
                 "id": "6c2602c2-024f-49e6-a2a9-672e2806021f",
@@ -127,6 +207,14 @@
             }
         },
         {
+            "Key": "b1c15aa2-73cb-4232-8a2f-03d3c311d31a",
+            "Value": {
+                "id": "2f53761f-697f-4c55-aa4e-e0a65a2e2ba5",
+                "resourcePath": "rooms\\bosque2\\bosque2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b437a73d-1bbf-4938-961c-a8a7d9eece13",
             "Value": {
                 "id": "93174743-d9ee-4482-86b6-22c88b771049",
@@ -140,6 +228,14 @@
                 "id": "e7450422-cf72-4d54-81ef-6d0bc13d23fa",
                 "resourcePath": "views\\b57f20ff-126d-450e-ad1e-7ad8e6953215.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9ef6f75-cfc5-427b-92d0-87c684824473",
+            "Value": {
+                "id": "7dd7ab3b-8f96-4dd6-a0cd-252d7a6e2c1c",
+                "resourcePath": "rooms\\casaCientista\\casaCientista.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -167,6 +263,14 @@
             }
         },
         {
+            "Key": "db2ae00c-5a4c-4628-a554-cc4f89e5e7b3",
+            "Value": {
+                "id": "7836c53f-0350-4d9c-87c0-c52b70af7024",
+                "resourcePath": "rooms\\coberturaCasaCientista\\coberturaCasaCientista.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "dcca0b3e-22f5-4070-9c10-762d9b9f1a86",
             "Value": {
                 "id": "30314f48-9cdc-42c4-88b2-5a9778859c74",
@@ -183,11 +287,27 @@
             }
         },
         {
+            "Key": "ee976593-cf6e-43b0-93e1-46ee00b16c87",
+            "Value": {
+                "id": "985944c3-639f-40fc-a6d4-9cde4f5672f5",
+                "resourcePath": "rooms\\casaCliente\\casaCliente.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "398da578-b5d7-4941-be8f-36fad17abdd0",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f83f07f5-b0fd-4737-880c-eafacae304d1",
+            "Value": {
+                "id": "8b513e24-7b15-4063-ac30-e1054d7689cb",
+                "resourcePath": "rooms\\bosque3\\bosque3.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
